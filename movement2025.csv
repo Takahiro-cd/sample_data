@@ -1,0 +1,5 @@
+﻿No,product,policy_year,policy_month,policy_day,sex,age,term,deposits,number,premium,amount,reason
+2,E,2020,7,14,F,30,20,64,2,8926,2000000,surrender
+5,T,2019,5,16,M,30,30,75,3,5960,20000000,surrender
+6,T,2020,8,28,F,40,10,59,1,6750,30000000,surrender
+9,W,2019,9,16,M,40,A60,76,1,12543,3000000,death
